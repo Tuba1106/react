@@ -1,0 +1,27 @@
+.createPost{
+    height: 100vh;
+    background-color: #95a5a6;
+    display: flex;
+    padding-top: 2rem;
+    padding: 0 165px;
+}
+.form {
+    width: 85%;
+    height: 40vh;
+    background-color: #ecf0f1;
+    margin: 20px auto;
+    padding-left: 15%;
+    padding-top: 2rem;
+}
+input{
+    margin-bottom: 1rem;
+}
+textarea{
+    width: 500px;
+    height: 150px;
+    margin-top: 10px;
+    margin-right:80px ;
+}
+.subBtn{
+    padding: 10px 15px;
+}

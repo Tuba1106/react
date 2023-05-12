@@ -1,0 +1,8 @@
+.posts{
+    background-color: #95a5a6;
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    height: 100vh ;
+    padding-bottom: 3rem;
+    padding: 10px 150px; 
+}
